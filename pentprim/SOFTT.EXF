@@ -1,0 +1,14 @@
+# List of exported symbols for SOFTT.BDD
+# $Id: SOFTT.EXF 1.1 1996/09/26 19:04:03 JOHNG Exp $
+# $Locker: $
+#
+=softt
+PrimLibWork
+TriangleRenderPITA24
+TriangleRenderPITIA_RGB_888
+TriangleRenderPII_RGB_888
+TriangleRenderPI_RGB_888
+LineRenderPIT_RGB_888
+LineRenderPII_RGB_888
+PointRenderPIT_RGB_888
+PointRenderPI_RGB_888

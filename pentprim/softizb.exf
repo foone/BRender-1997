@@ -1,0 +1,24 @@
+# List of exported symbols for SOFTIZ.BDD
+# $Id: softizb.exf 1.3 1997/04/01 16:42:14 johng Exp $
+# $Locker: $
+#
+=softizb
+PrimLibWork
+TriangleRender_ZPTIB_I8_D16_32
+TriangleRender_ZPTIB_I8_D16_32_FLAT
+TriangleRender_ZPTB_I8_D16_32
+TriangleRender_ZPTIB_I8_D16_64
+TriangleRender_ZPTIB_I8_D16_64_FLAT
+TriangleRender_ZPTB_I8_D16_64
+TriangleRender_ZPTIB_I8_D16_128
+TriangleRender_ZPTIB_I8_D16_128_FLAT
+TriangleRender_ZPTB_I8_D16_128
+TriangleRender_ZPTIB_I8_D16_256
+TriangleRender_ZPTIB_I8_D16_256_FLAT
+TriangleRender_ZPTB_I8_D16_256
+TriangleRender_ZPTIB_I8_D16_1024
+TriangleRender_ZPTIB_I8_D16_1024_FLAT
+TriangleRender_ZPTB_I8_D16_1024
+TriangleRender_ZTIB_I8_D16
+TriangleRender_ZTIB_I8_D16_FLAT
+TriangleRender_ZTB_I8_D16
